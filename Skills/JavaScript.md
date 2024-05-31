@@ -2,24 +2,24 @@
 
 - Language
   - `Object`
-  - `Function` u
-  - `Boolean` u
-  - `Number` u
-  - `BigInt` k
-  - `String` u
+  - `Function`
+  - `Boolean`
+  - `Number`
+  - `BigInt`
+  - `String`
   - `Symbol`
   - `Infinity`
   - `NaN` k
-  - `undefined` k
-  - `null` k
-  - `this` k
+  - `undefined`
+  - `null`
+  - `this`
   - `instanceof`
   - `...spread`
   - `...rest`
-  - `typeof` k
-  - Destructuring k
-  - Generators k
-  - Iterators k
+  - `typeof`
+  - Destructuring
+  - Generators
+  - Iterators
   - Async generator
   - Async iterator
   - Chaining
@@ -39,7 +39,7 @@
   - Ternary operator
   - `void`
   - `yield`
-  - `await` u
+  - `await`
   - Template literal
   - Strict mode
   - Hoisting
@@ -59,27 +59,27 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if` k
-  - `while` k 
+  - `if`
+  - `while`
   - `do..while`
-  - `for` k
-  - `for..in` k
-  - `for..of` k
-  - `for await` k
+  - `for`
+  - `for..in`
+  - `for..of`
+  - `for await`
   - `throw`
-  - `break` k
-  - `continue` k
-  - `import` k
-  - `export` k
+  - `break`
+  - `continue`
+  - `import`
+  - `export`
   - `label`
-  - `try..catch` k
+  - `try..catch`
   - `switch`
-  - `class` k
-  - `extends` k
+  - `class`
+  - `extends`
   - `with`
   - `new`
 - Functions
-  - Arrow function k
+  - Arrow function
   - Async function 
   - Function declaration
   - Function expression
