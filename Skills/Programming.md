@@ -32,13 +32,13 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
+  - Value: 🎓 known
+  - Identifier: 🎓 known
+  - Variable: 🎓 known
+  - Constant: 🎓 known
+  - Scalar: 🎓 known
+  - Literal: 🎓 known
+  - Expression: 🎓 known
   - Heap
   - Function
   - Procedure
