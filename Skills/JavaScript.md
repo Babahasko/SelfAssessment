@@ -2,24 +2,24 @@
 
 - Language
   - `Object`
-  - `Function` u
-  - `Boolean` u
-  - `Number` u
-  - `BigInt` k
-  - `String` u
+  - `Function`: 🖐️ used
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
+  - `BigInt`: 🎓 known
+  - `String`: 🖐️ used
   - `Symbol`
   - `Infinity`
-  - `NaN` k
-  - `undefined` k
-  - `null` k
-  - `this` k
+  - `NaN`: 🎓 known
+  - `undefined`: 🎓 known
+  - `null`: 🎓 known
+  - `this`: 🎓 known
   - `instanceof`
   - `...spread`
   - `...rest`
-  - `typeof` k
-  - Destructuring k
-  - Generators k
-  - Iterators k
+  - `typeof`: 🎓 known
+  - Destructuring: 🎓 known
+  - Generators: 🎓 known
+  - Iterators: 🎓 known
   - Async generator
   - Async iterator
   - Chaining
@@ -39,7 +39,7 @@
   - Ternary operator
   - `void`
   - `yield`
-  - `await` u
+  - `await`: 🖐️ used
   - Template literal
   - Strict mode
   - Hoisting
@@ -59,28 +59,28 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if` k
-  - `while` k 
+  - `if`: 🎓 known
+  - `while`: 🎓 known
   - `do..while`
-  - `for` k
-  - `for..in` k
-  - `for..of` k
-  - `for await` k
+  - `for`: 🎓 known
+  - `for..in`: 🎓 known
+  - `for..of`: 🎓 known
+  - `for await`: 🎓 known
   - `throw`
-  - `break` k
-  - `continue` k
-  - `import` k
-  - `export` k
+  - `break`: 🎓 known
+  - `continue`: 🎓 known
+  - `import`: 🎓 known
+  - `export`: 🎓 known
   - `label`
-  - `try..catch` k
+  - `try..catch`: 🎓 known
   - `switch`
-  - `class` k
-  - `extends` k
+  - `class`: 🎓 known
+  - `extends`: 🎓 known
   - `with`
   - `new`
 - Functions
-  - Arrow function k
-  - Async function 
+  - Arrow function: 🎓 known
+  - Async function
   - Function declaration
   - Function expression
   - Default parameters
